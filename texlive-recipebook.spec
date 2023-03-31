@@ -1,6 +1,6 @@
 Name:		texlive-recipebook
 Version:	37026
-Release:	1
+Release:	2
 Summary:	Typeset 5.5" x 8" recipes for browsing or printing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/recipebook
