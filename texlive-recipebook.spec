@@ -3,7 +3,7 @@ Version:	37026
 Release:	2
 Summary:	Typeset 5.5" x 8" recipes for browsing or printing
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/recipebook
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/recipebook
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/recipebook.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/recipebook.doc.r%{version}.tar.xz
